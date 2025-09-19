@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - kilicVurusBox
+  - Orumcek
+  - Bat
+  - Boa
+  - ok
+  - iskelet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - No Collision
+  - Water
+  - UI
+  - Zemin
+  - PlayerLayer
+  - DusmanLayer
+  - KilicLayer
+  - TirmanmaLayer
+  - IskeletLayer
+  - okLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backgrounds
+    uniqueID: 1178214837
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Zemin
+    uniqueID: 335015221
+    locked: 0
+  - name: zeminObjeler
+    uniqueID: 2422835889
+    locked: 0
+  - name: Objeler
+    uniqueID: 2344722569
+    locked: 0
+  - name: Efektler
+    uniqueID: 3523698177
+    locked: 0
+  - name: Player
+    uniqueID: 1802223913
+    locked: 0
